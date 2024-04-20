@@ -1,4 +1,4 @@
-![Screenshot (18)](https://github.com/HarishVashisht/Blackcoffer_Text_Analytics/assets/151710004/e9fa6e03-40d2-4f11-a291-6a6a759c200e)# Text analysis 
+# Text analysis 
 
 ## Overview
 
