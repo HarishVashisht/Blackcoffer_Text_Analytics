@@ -36,7 +36,6 @@ https://drive.google.com/drive/folders/1ltdsXAS_zaZ3hI-q9eze_QCzHciyYAJY?usp=dri
 
 ## Files Included
 
-- `web_content_analysis.py`: The main Python script for web content analysis.
 - `requirements.txt`: List of required Python libraries.
 - `Output Data Structure.xlsx`: Sample Excel file with URL data and placeholders for analysis results.
 - `positive-words.txt` and `negative-words.txt`: Lists of positive and negative words used for sentiment analysis.
